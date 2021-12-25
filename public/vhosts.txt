@@ -1,0 +1,18 @@
+
+xampp:
+# <VirtualHost *:80>
+#     DocumentRoot "C:\xampp\htdocs\php_prud\product_crud_good_version\public"
+#     ServerName products.test
+    
+#     <Directory "C:\xampp\htdocs\php_prud\product_crud_good_version\public"> 
+#         RewriteEngine On
+
+#         RewriteCond %{REQUEST_FILENAME} !-f
+#         RewriteCond %{REQUEST_FILENAME} !-d
+#         RewriteRule . index.php [L]
+#     </Directory>
+
+# </VirtualHost>
+
+windows:
+127.0.0.1           products.test

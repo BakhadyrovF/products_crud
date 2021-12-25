@@ -1,0 +1,15 @@
+{
+    "name": "99890/product_crud_good_version",
+    "authors": [
+        {
+            "name": "FIruzbek",
+            "email": "ggwp@gmail.com"
+        }
+    ],
+    "require":{},
+    "autoload":{
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
